@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ffbc354cf27826e4f90089ecb615749c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - secondcam: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - bgmarble: {fileID: 21300000, guid: e0e9436aef119c34cab445934177433d, type: 3}
+  - fmarble: {fileID: 21300000, guid: 7d4822d26e948cc4c8ea4d0a5792b7fe, type: 3}
+  - marble1: {instanceID: 0}
+  - camerabutton: {instanceID: 0}
+  - gameplaybarrier: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
